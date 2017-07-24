@@ -35,7 +35,6 @@ public class MainActivity extends AppCompatActivity {
     static ImageView imageView;
     static TextView weatherTypeTextView;
     static ConstraintLayout constraintLayout;
-    String s = "hello";
 
     LocationManager locationManager;
 
