@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather Report</string>
+    <string name="sunset">Sunset: N/A</string>
+    <string name="_29c">N/A</string>
+    <string name="description">Description: N/A</string>
+    <string name="haze">: N/A</string>
+    <string name="humidity">Humidity: N/A</string>
+    <string name="location">Location: N/A</string>
+    <string name="sunrise">Sunrise: N/A</string>
+    <string name="wind_speed">Wind speed: N/A</string>
+    <string name="max">max: N/A</string>
+    <string name="min">min: N/A</string>
+</resources>
